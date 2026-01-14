@@ -27,14 +27,14 @@ python --version
 ### Get the game files:
 - Download from Github
     - On the repository page, click __Code → Download ZIP__.
-    - Extract the ZIP to a folder of your choice.
+    - Extract the ZIP to a directory of your choice.
 - Or clone with Git (if you have Git installed)
 ```
 git clone https://github.com/phillsikes/alienPy.git
 ```
 
 ### Run the game:
-- Change directory to find the file
+- Change directory to the directory containing the aliens.py file
 - Execute the file
 ```
 python aliens.py
@@ -43,6 +43,6 @@ python aliens.py
 ```
 python3 aliens.py
 ```
-The game should launch in the terminal/command prompt and you can start playing.
+The game should launch in the terminal/ command prompt and you can start playing.
 
 Watch out for those Xenomorphs!!
