@@ -1,7 +1,10 @@
 # alienPy
 
 ### A text based adventure game
-Written in Python during a coding bootcamp. 
+Written in Python during a coding bootcamp.\
+Author:  Phill Sikes\
+Email: <phillsikes@proton.me>\
+License: MIT
 
 ---
 ### Task

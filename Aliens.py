@@ -1,9 +1,3 @@
-"""
-alien.py – A text based adventure game
-Author:  Phill Sikes <jane@example.com>
-License: MIT
-"""
-
 print(r'''
 **************************************************************
                       A L | E N S  .---._
