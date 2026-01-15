@@ -8,7 +8,7 @@ License: MIT
 
 ---
 ### Task
-- Create a simple text based game using Conditional Statements, Nesting,  and Logical Operators.
+- Create a simple text based game using Conditional Statements, Nesting, and Logical Operators.
 - Include some ASCII art assets 
 - Make it your own.
 - Inspired by the film ALIENS.
