@@ -24,7 +24,10 @@ License: MIT
 ```
 python --version
 ```
-
+- On some systems you might need to specify python3
+```
+python3 --version
+```
 - If you see a version number (e.g., Python 3.11.2), you’re good. If not, install Python for your system.
 
 ### Get the game files:
@@ -37,14 +40,14 @@ git clone https://github.com/phillsikes/alienPy.git
 ```
 
 ### Run the game:
-- Change directory to the directory containing the aliens.py file
+- Change directory to the directory containing the alien.py file
 - Execute the file
 ```
-python aliens.py
+python alien.py
 ```
 - On some systems you might need to specify python3
 ```
-python3 aliens.py
+python3 alien.py
 ```
 The game should launch in the terminal/ command prompt and you can start playing.
 
