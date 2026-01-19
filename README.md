@@ -1,6 +1,7 @@
 # alienPy
 
-### A text based adventure game
+### A text based adventure game 
+### Inspired by the film ALIENS
 Written in Python during a coding bootcamp.\
 Author:  Phill Sikes\
 Email: <phillsikes@proton.me>\
@@ -11,7 +12,6 @@ License: MIT
 - Create a simple text based game using Conditional Statements, Nesting, and Logical Operators.
 - Include some ASCII art assets 
 - Make it your own.
-- Inspired by the film ALIENS.
 ---
 ### Roadmap
 - [x] Initial functionality Complete
@@ -21,10 +21,6 @@ License: MIT
 ## Do you want to play the game?
 ### Make sure Python is installed:
 - Open a terminal / command prompt and run:
-```
-python --version
-```
-- On some systems you might need to specify python3
 ```
 python3 --version
 ```
@@ -42,10 +38,6 @@ git clone https://github.com/phillsikes/alienPy.git
 ### Run the game:
 - Change directory to the directory containing the alien.py file
 - Execute the file
-```
-python alien.py
-```
-- On some systems you might need to specify python3
 ```
 python3 alien.py
 ```
